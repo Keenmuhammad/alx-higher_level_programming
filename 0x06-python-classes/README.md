@@ -1,5 +1,5 @@
-# Solution to tasks on 0x05. Python - Exceptions
-n - Classes and Objects
+## 0x06. Python - Classes and Objects
+
 
 ## Resources
 
